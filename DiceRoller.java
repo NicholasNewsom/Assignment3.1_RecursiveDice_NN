@@ -1,6 +1,6 @@
 
 
-public class Application
+public class DiceRoller
 {
 	public static void main(String[] args)
 	{
